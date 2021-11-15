@@ -1,1 +1,2 @@
-https://jsdenis.github.io/Tutorials-app-front/
+our todo applications
+https://smgleb.github.io/front-todo-app/
